@@ -1,36 +1,38 @@
 # 0x01_emacs
+
+`cutting`  `opening`  `pasting`  `quitting`  `saving`  `searching`  `undoing`
+
+> cutting
 ```bash
-root@ ls
-```
-cutting  opening  pasting  quitting  saving  searching  undoing
-```bash
-root@ cat cutting
-```
 C-k
-```bash
-root@ cat opening
 ```
+#
+> opening
+```bash
 C-x C-f
-```bash
-root@ cat pasting
 ```
+#
+> pasting
+```bash
 C-y
-```bash
-root@ cat quitting
 ```
+#
+> quitting
+```bash
 C-x C-c
-```bash
-root@ cat saving
 ```
+#
+> saving
+```bash
 C-x C-s
-```bash
-root@ cat searching
 ```
+#
+> searching
+```bash
 C-s
-```bash
-root@ cat undoing
 ```
-C-/
+#
+> undoing
 ```bash
-root@
+C-/
 ```
