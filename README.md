@@ -1,18 +1,18 @@
 # 0x01_emacs
-root@d2e4216411b4:~/0x01_emacs# ls
+root@ ls
 cutting  opening  pasting  quitting  saving  searching  undoing
-root@d2e4216411b4:~/0x01_emacs# cat cutting
+root@ cat cutting
 C-k
-root@d2e4216411b4:~/0x01_emacs# cat opening
+root@ cat opening
 C-x C-f
-root@d2e4216411b4:~/0x01_emacs# cat pasting
+root@ cat pasting
 C-y
-root@d2e4216411b4:~/0x01_emacs# cat quitting
+root@ cat quitting
 C-x C-c
-root@d2e4216411b4:~/0x01_emacs# cat saving
+root@ cat saving
 C-x C-s
-root@d2e4216411b4:~/0x01_emacs# cat searching
+root@ cat searching
 C-s
-root@d2e4216411b4:~/0x01_emacs# cat undoing
+root@ cat undoing
 C-/
-root@d2e4216411b4:~/0x01_emacs#
+root@
