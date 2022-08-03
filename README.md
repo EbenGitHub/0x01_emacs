@@ -37,4 +37,4 @@ C-s
 C-/
 ```
 #
-` _EbenGitHub_ `
+` EbenGitHub `
