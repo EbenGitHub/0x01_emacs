@@ -17,9 +17,19 @@ C-x C-f
 C-y
 ```
 #
-> quitting
+> quitting (to permanently exit from emacs)
 ```bash
 C-x C-c
+```
+#
+> quitting (to temporarly exit from emacs)
+```bash
+C-z
+```
+#
+> attaching (to attach to temporarly exited emacs)
+```bash
+%emacs
 ```
 #
 > saving
